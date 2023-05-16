@@ -460,6 +460,7 @@ a:active {
     border: none;
     border-bottom: 1px solid rgba(255, 255, 255, 0.15);
     width: 100%;
+    color: #959595;  
   }
 
   .section__form_text-color {
@@ -747,6 +748,14 @@ a:active {
     .questions {
       margin-top: -22px;
     }
+      
+    input {
+      color: #959595;
+      background: transparent;
+      border: none;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+      width: 100%;
+    }  
 
     .footer {
       display: none;
